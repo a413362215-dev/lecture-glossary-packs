@@ -1,0 +1,69 @@
+{
+ "version": 1,
+ "courses": [
+  {
+   "id": "computer-modeling",
+   "zh": "计算机建模应用",
+   "en": "Computer Modeling Applications",
+   "ru": "Компьютерное моделирование",
+   "file": "computer-modeling.tsv",
+   "terms": 44
+  },
+  {
+   "id": "crypto-tech",
+   "zh": "密码技术",
+   "en": "Cryptography and Cryptographic Techniques",
+   "ru": "Криптографические технологии",
+   "file": "crypto-tech.tsv",
+   "terms": 46
+  },
+  {
+   "id": "distributed-arch",
+   "zh": "分布式应用架构",
+   "en": "Distributed Application Architecture",
+   "ru": "Архитектура распределённых приложений",
+   "file": "distributed-arch.tsv",
+   "terms": 45
+  },
+  {
+   "id": "intelligent-data",
+   "zh": "智能数据分析",
+   "en": "Intelligent Data Analysis",
+   "ru": "Интеллектуальный анализ данных",
+   "file": "intelligent-data.tsv",
+   "terms": 47
+  },
+  {
+   "id": "is-analysis-design",
+   "zh": "信息系统分析与设计",
+   "en": "Information Systems Analysis and Design",
+   "ru": "Анализ и проектирование информационных систем",
+   "file": "is-analysis-design.tsv",
+   "terms": 44
+  },
+  {
+   "id": "math-models-it",
+   "zh": "信息技术中的数学模型",
+   "en": "Mathematical Models in Information Technology",
+   "ru": "Математические модели в информационных технологиях",
+   "file": "math-models-it.tsv",
+   "terms": 43
+  },
+  {
+   "id": "optimization-seo",
+   "zh": "优化与SEO",
+   "en": "Optimization and SEO",
+   "ru": "Оптимизация и SEO",
+   "file": "optimization-seo.tsv",
+   "terms": 43
+  },
+  {
+   "id": "ui-design-prototype",
+   "zh": "用户界面设计与原型",
+   "en": "User Interface Design and Prototyping",
+   "ru": "Проектирование пользовательских интерфейсов и прототипирование",
+   "file": "ui-design-prototype.tsv",
+   "terms": 45
+  }
+ ]
+}

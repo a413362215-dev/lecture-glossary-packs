@@ -1,0 +1,44 @@
+# 信息技术中的数学模型
+mathematical model	数学模型	数学模式
+probability model	概率模型	可能性模型
+random variable	随机变量	随机变数
+distribution	分布（概率）	分配
+expectation|expected value	数学期望	期望值
+Markov chain|markov chain	马尔可夫链	马尔科夫链
+transition matrix	转移矩阵	过渡矩阵
+steady state	稳态	稳定状态
+queueing theory|queuing theory	排队论	排队理论
+queue	队列	排队
+arrival rate	到达率	抵达率
+service rate	服务率	服务速率
+Little's law|little's law	利特尔法则	小定律
+graph theory	图论	图形理论
+vertex|vertices	顶点	节点
+edge	边（图论）	边缘
+path	路径	小路
+shortest path	最短路径	最短小路
+optimization model	优化模型	最优模型
+objective function	目标函数	目的函数
+constraint	约束（条件）	限制
+linear programming	线性规划	线性计划
+stochastic process	随机过程	随机流程
+Poisson process|poisson	泊松过程	普瓦松过程
+birth-death process	生灭过程	出生死亡过程
+simulation model	仿真模型	模拟模型
+state	状态	状况
+system dynamics	系统动力学	系统动态
+flowchart	流程图	流图
+decision model	决策模型	决定模型
+forecasting	预测	预言
+regression model	回归模型	倒退模型
+time series	时间序列	时间系列
+теория массового обслуживания	排队论	群众服务理论
+цепи Маркова|цепь Маркова	马尔可夫链	马尔科夫链（俄）
+случайная величина	随机变量	偶然量
+математическое ожидание	数学期望	数学期待
+вероятность	概率	可能性
+граф	图（图论）	伯爵
+очередь	队列	排队（俄）
+целевая функция	目标函数	目的函数（俄）
+ограничение	约束	限制（俄）
+переходная матрица	转移矩阵	过渡矩阵（俄）

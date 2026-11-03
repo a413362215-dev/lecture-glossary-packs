@@ -1,0 +1,45 @@
+# 信息系统分析与设计
+requirements engineering	需求工程	要求工程
+requirement|requirements	需求	要求
+use case	用例	使用案例
+use case diagram	用例图	使用案例图
+actor	参与者（用例）	演员
+stakeholder	利益相关者	利益相关方
+functional requirement	功能需求	功能性要求
+non-functional requirement	非功能需求	非功能性要求
+UML|unified modeling language	统一建模语言	统一模型语言
+class diagram	类图	班级图
+sequence diagram	顺序图	序列图
+activity diagram	活动图	行动图
+state machine diagram	状态机图	状态图
+ER model|entity-relationship	实体-关系模型	ER 模型
+entity	实体	实体对象
+attribute	属性	特性
+primary key	主键	主密钥
+foreign key	外键	外部密钥
+normalization|normal form	规范化（范式）	正常化
+first normal form|1NF	第一范式	第一正常形式
+denormalization	反规范化	去规范化
+data flow diagram|DFD	数据流图	数据流动图
+BPMN	business process model and notation 业务流程建模标记法	业务流程图
+business process	业务流程	商业流程
+prototype|prototyping	原型（原型法）	样机
+feasibility	可行性	可能性
+architecture design	架构设计	建筑设计
+module	模块	模组
+coupling	耦合	耦合度
+cohesion	内聚	凝聚力
+interface	接口	界面
+database schema	数据库模式	数据库架构
+indexing|index	索引	指标
+transaction	事务	交易
+проектирование информационных систем	信息系统设计	信息系统规划
+анализ требований	需求分析	要求分析
+диаграмма классов	类图	班级图（俄）
+прецедент|вариант использования	用例	先例
+нормализация	规范化	正常化（俄）
+сущность	实体	本质
+первичный ключ	主键	初级密钥
+внешний ключ	外键	外部密钥（俄）
+бизнес-процесс	业务流程	商业流程（俄）
+прототип	原型	样机（俄）

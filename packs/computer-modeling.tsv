@@ -1,0 +1,45 @@
+# 计算机建模应用
+computer modeling|computer modelling	计算机建模	计算机模型
+simulation	仿真（模拟）	模拟
+numerical method	数值方法	数字方法
+numerical solution	数值解	数字解
+differential equation	微分方程	微分方程式
+initial condition	初始条件	最初条件
+boundary condition	边界条件	界限条件
+interpolation	插值	内插
+extrapolation	外推	外插
+approximation	近似（逼近）	大概
+iteration|iterative method	迭代（迭代法）	反复
+convergence	收敛	汇聚
+error|error estimate	误差（误差估计）	错误
+absolute error	绝对误差	绝对错误
+relative error	相对误差	相对错误
+stability	稳定性	稳定
+finite difference method	有限差分法	有限差异法
+finite element method|FEM	有限元法	有限元素法
+mesh|grid	网格	网
+discretization	离散化	离散
+step size	步长	步骤大小
+Monte Carlo method|monte carlo	蒙特卡洛方法	蒙特卡罗
+random number generator	随机数生成器	随机数发生器
+Euler method|euler's method	欧拉法	尤拉法
+Runge-Kutta|runge kutta	龙格-库塔法	伦格库塔
+Newton's method|newton method	牛顿法	牛顿方法
+linear system	线性方程组	线性系统
+matrix	矩阵	基质
+eigenvalue	特征值	本征值
+boundary value problem	边值问题	边界值问题
+ordinary differential equation|ODE	常微分方程	普通微分方程
+partial differential equation|PDE	偏微分方程	部分微分方程
+model validation	模型验证	模型确认
+sensitivity analysis	敏感性分析	灵敏度分析
+численное моделирование	数值建模	数字模拟
+метод конечных элементов	有限元法	有限元素法（俄）
+дифференциальное уравнение	微分方程	微分方程式（俄）
+погрешность	误差	错误（俄）
+сходимость	收敛	汇聚（俄）
+интерполяция	插值	内插（俄）
+метод Монте-Карло	蒙特卡洛方法	蒙特卡罗（俄）
+граничные условия	边界条件	界限条件（俄）
+итерация	迭代	反复（俄）
+устойчивость	稳定性	稳定（俄）

@@ -1,0 +1,48 @@
+# 智能数据分析
+machine learning	机器学习	机器学习（标准）
+dataset|data set	数据集	数据集合
+training set	训练集	培训集
+test set	测试集	考试集
+feature	特征	特点
+label	标签	标记
+supervised learning	监督学习	有监督学习
+unsupervised learning	无监督学习	无监督的学习
+reinforcement learning	强化学习	增强学习
+regression	回归	回归分析
+linear regression	线性回归	线性回归（标准）
+logistic regression	逻辑回归	物流回归
+classification	分类	分类法
+clustering	聚类	集群
+decision tree	决策树	决定树
+random forest	随机森林	随机林
+support vector machine|SVM	支持向量机	支持向量机器
+neural network	神经网络	神经网
+deep learning	深度学习	深学习
+gradient descent	梯度下降	梯度下山
+stochastic gradient descent|SGD	随机梯度下降	随机梯度下山
+backpropagation	反向传播	回传
+loss function	损失函数	丢失函数
+overfitting	过拟合	过度拟合
+underfitting	欠拟合	不足拟合
+regularization	正则化	正规化
+cross-validation	交叉验证	交叉确认
+hyperparameter	超参数	超参数（标准）
+bias	偏差	偏见
+variance	方差	变异
+precision	精确率	精度
+recall	召回率	回忆率
+confusion matrix	混淆矩阵	混乱矩阵
+dimensionality reduction	降维	维度减少
+principal component analysis|PCA	主成分分析	主要成分分析
+outlier	异常值	离群值
+data preprocessing	数据预处理	数据前处理
+feature engineering	特征工程	特点工程
+машинное обучение	机器学习	机器培训
+переобучение	过拟合	再训练
+обучающая выборка	训练集	培训样本
+градиентный спуск	梯度下降	梯度下山（俄）
+нейронная сеть	神经网络	神经网（俄）
+кластеризация	聚类	集群化
+регрессия	回归	倒退
+классификация	分类	分类（俄）
+функция потерь	损失函数	损失功能

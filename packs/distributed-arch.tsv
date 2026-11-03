@@ -1,0 +1,46 @@
+# 分布式应用架构
+microservice|micro-service|micro services	微服务	微型服务
+monolith|monolithic	单体应用	巨石应用
+service discovery	服务发现	服务查找
+load balancing|load balancer	负载均衡	负载平衡
+sharding|shard	分片	碎片
+replication|replica	复制（副本）	复制品
+partitioning|partition tolerance	分区（容忍）	分割
+CAP theorem|cap theorem	 CAP 定理	帽子定理
+eventual consistency	最终一致性	 eventual 一致性,最终一致
+strong consistency	强一致性	强烈一致性
+consensus|consensus algorithm	共识（算法）	协商一致
+Raft|raft protocol	 Raft 共识算法	木筏算法
+Paxos	 Paxos 算法	帕克索斯
+leader election	领导者选举	领导选举
+quorum	法定人数（多数派）	定额
+message queue	消息队列	信息队列
+publish-subscribe|pub-sub	发布-订阅	出版订阅
+idempotency|idempotent	幂等性	等幂性
+exactly-once|exactly once	恰好一次（语义）	确切一次
+at-least-once	至少一次（语义）	至少有一次
+RPC|remote procedure call	远程过程调用	远程程序调用
+gRPC	 gRPC 框架	克罗恩
+API gateway	 API 网关	接口网关
+circuit breaker	熔断器	断路器
+retry|backoff	重试（退避）	再试
+timeout	超时	时间外
+fault tolerance	容错	故障公差
+availability	可用性	有效性
+scalability|horizontal scaling	可扩展性（水平扩展）	可伸缩性
+stateless|stateful	无状态（有状态）	无国籍
+distributed transaction	分布式事务	分布事务
+two-phase commit|2PC	两阶段提交	两相提交
+saga pattern	 Saga 模式	传奇模式
+heartbeat	心跳（检测）	心跳声
+gossip protocol	 Gossip 协议	八卦协议
+consistent hashing	一致性哈希	一致哈希
+cache|distributed cache	缓存（分布式缓存）	高速缓存
+CDN|content delivery network	内容分发网络	内容交付网络
+middleware	中间件	中间软件
+распределённая система|распределенные системы	分布式系统	分布系统
+отказоустойчивость	容错性	抗故障性
+масштабируемость	可扩展性	规模性
+балансировка нагрузки	负载均衡	负载平衡（俄）
+репликация	复制（副本机制）	复制（俄）
+кластер	集群	簇
